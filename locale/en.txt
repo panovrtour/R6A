@@ -1,0 +1,62 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = R6A
+
+## Media
+
+### Title
+panorama_72D5D461_79A4_C0C5_41DD_A2DC6AC63D99.label = 1. Foyer
+panorama_73DB23F8_79A4_C7C3_41D8_CA691E8E3553.label = 2. Dining
+panorama_73DC230F_79A4_405D_4191_82E2F81EE42C.label = 7. Kids Room
+panorama_73DC3BCC_79A5_C7C3_41C6_2BD964B69439.label = 13. Kitchen
+panorama_73DC5C19_79A5_C045_41B2_2FA1713177E7.label = 15. Master deck
+panorama_73DC7485_79A5_C04D_41BD_F2AF2D891629.label = 16. Kids Deck
+panorama_73DC840C_79A5_C043_41DA_30C95E2E7C5E.label = 12. Master Bathroom
+panorama_73DC8D0B_79A4_4045_41C8_2ED7AA10A2F3.label = 4. Living Deck
+panorama_73DC9D1A_79A4_4047_41A0_343543B96A65.label = 8. Bathroom 2
+panorama_73DCA075_79A4_40CD_41C9_DCD449B7742B.label = 3. Living
+panorama_73DCBBDB_79A5_C7C5_41D9_17A65F524920.label = 11. Closet Area
+panorama_73DCD37C_79A5_C0C3_41D1_316042BAF5F0.label = 14. Parent Deck
+panorama_73DCE5E7_79A4_43CD_41DE_06D4FA6AADF5.label = 9. Parent Bedroom
+panorama_73DCF19D_79A5_C07D_41B4_CB024B568A04.label = 10. Master bedroom
+panorama_73DF7A5E_79A4_40FF_41D7_73E99D29A024.label = 5. Passage
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_60125399_79FC_4072_41CB_F5B26C7A95E9.toolTip = Parent Deck
+HotspotPanoramaOverlayArea_60AAEA6F_79E3_C0DD_41CD_66C0798BCDC8.toolTip = Master Berdoom
+HotspotPanoramaOverlayArea_60EDCB9F_79EC_407D_41D0_04BE07A23767.toolTip = Parent Bedroom
+HotspotPanoramaOverlayArea_6182BDDE_79EC_C3FF_41C4_1A618DF4A628.toolTip = Living
+HotspotPanoramaOverlayArea_61DD009A_79EC_4047_41BC_6BD7E1AF9E5E.toolTip = Living Deck
+HotspotPanoramaOverlayArea_62BBA210_79E5_C043_41BE_85A103754837.toolTip = Master Deck
+HotspotPanoramaOverlayArea_62BE6955_79E4_40CD_41B3_5AA1C0959501.toolTip = Parent Bedroom
+HotspotPanoramaOverlayArea_62FBD28F_79FC_405D_4195_E6A5A3884F08.toolTip = Parent Bedroom
+HotspotPanoramaOverlayArea_639F9D7E_79E4_C0BF_41CD_A2E1E741BCB9.toolTip = Bathroom
+HotspotPanoramaOverlayArea_63B280BA_79E7_C047_41D5_92DC2AED717D.toolTip = Passage
+HotspotPanoramaOverlayArea_640118F5_79E4_C1CD_41DC_AFCF28BC79C6.toolTip = Master Bedroom
+HotspotPanoramaOverlayArea_64B80D86_79EC_404F_4197_1442CD4ABF88.toolTip = Closet Area
+HotspotPanoramaOverlayArea_651A391F_79EC_407D_41CE_18C6BFEFE66F.toolTip = Master Bedroom
+HotspotPanoramaOverlayArea_651D91CC_79EC_43C3_41D5_CF356080180B.toolTip = Master Bathroom
+HotspotPanoramaOverlayArea_65AF596B_79E4_40C5_41D8_A5368681B8B4.toolTip = Passage
+HotspotPanoramaOverlayArea_65EE2580_79E4_4043_4190_3222C691526C.toolTip = Closet  Area
+HotspotPanoramaOverlayArea_66E1B352_79DC_C0C7_41DA_865D7BA454A0.toolTip = Living Room
+HotspotPanoramaOverlayArea_68C2079C_79BC_4043_41C9_00C05631373F.toolTip = Living
+HotspotPanoramaOverlayArea_6A591180_79AC_C043_41CC_77A4E3925CEF.toolTip = Foyer
+HotspotPanoramaOverlayArea_6A658999_79BC_4045_41A2_720F60CBB430.toolTip = Foyer
+HotspotPanoramaOverlayArea_6A7C8EF9_79BC_41C5_41BE_C9178FF8355A.toolTip = Kitchen
+HotspotPanoramaOverlayArea_6AC3CE3F_79A4_40BD_41C8_30259BC741BD.toolTip = Dining
+HotspotPanoramaOverlayArea_6B167A65_79A4_40CD_41B1_DC3161FA466A.toolTip = Dining
+HotspotPanoramaOverlayArea_6C141538_79DC_C043_41B1_34B54A993B2A.toolTip = Kids Deck
+HotspotPanoramaOverlayArea_6C5EE642_79A4_C0C7_41DB_D58783D6EC7B.toolTip = Kids Room
+HotspotPanoramaOverlayArea_6DA02288_79AC_4043_41D0_7D8CB051C679.toolTip = Passage
+HotspotPanoramaOverlayArea_6DCE6AB3_79AC_4045_41A9_90A9395ECC48.toolTip = Kitchen
+HotspotPanoramaOverlayArea_6EF4DAB1_79E4_4045_41CA_DB200BA5077D.toolTip = Passage
+HotspotPanoramaOverlayArea_6F139859_79DC_40C5_41D3_598D83F31B15.toolTip = Kods Room
+HotspotPanoramaOverlayArea_6F55AC77_79DC_40CD_41D6_BD506210D26D.toolTip = Passage
+HotspotPanoramaOverlayArea_768472E1_79A4_41C5_41DA_71D9754A7962.toolTip = Dining
