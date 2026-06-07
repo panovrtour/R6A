@@ -10,21 +10,21 @@ tour.name = R6A
 ## Media
 
 ### Title
-panorama_72D5D461_79A4_C0C5_41DD_A2DC6AC63D99.label = 1. Foyer
-panorama_73DB23F8_79A4_C7C3_41D8_CA691E8E3553.label = 2. Dining
-panorama_73DC230F_79A4_405D_4191_82E2F81EE42C.label = 7. Kids Room
-panorama_73DC3BCC_79A5_C7C3_41C6_2BD964B69439.label = 13. Kitchen
-panorama_73DC5C19_79A5_C045_41B2_2FA1713177E7.label = 15. Master deck
-panorama_73DC7485_79A5_C04D_41BD_F2AF2D891629.label = 16. Kids Deck
-panorama_73DC840C_79A5_C043_41DA_30C95E2E7C5E.label = 12. Master Bathroom
-panorama_73DC8D0B_79A4_4045_41C8_2ED7AA10A2F3.label = 4. Living Deck
-panorama_73DC9D1A_79A4_4047_41A0_343543B96A65.label = 8. Bathroom 2
 panorama_73DCA075_79A4_40CD_41C9_DCD449B7742B.label = 3. Living
-panorama_73DCBBDB_79A5_C7C5_41D9_17A65F524920.label = 11. Closet Area
-panorama_73DCD37C_79A5_C0C3_41D1_316042BAF5F0.label = 14. Parent Deck
-panorama_73DCE5E7_79A4_43CD_41DE_06D4FA6AADF5.label = 9. Parent Bedroom
-panorama_73DCF19D_79A5_C07D_41B4_CB024B568A04.label = 10. Master bedroom
 panorama_73DF7A5E_79A4_40FF_41D7_73E99D29A024.label = 5. Passage
+panorama_AE45F690_A2B1_FD39_41C6_0EA591879020.label = 8. Bathroom 2
+panorama_AE54F904_A2B1_9719_41D6_1580D68C452C.label = 4. Living Deck
+panorama_AE55A515_A2BF_FF3A_41E0_965779550D0F.label = 2. Dining
+panorama_AF227BCC_A2B0_AB29_41D1_53C457BEFF29.label = 1. Foyer
+panorama_AF8C247E_A2B0_FDE6_41C4_AD0223061F61.label = 13. Kitchen
+panorama_AF8DEB97_A2B0_AB27_41D8_087226EBB763.label = 9. Parent Bedroom
+panorama_AF8EA321_A2B3_BB1B_41B2_D3155311C565.label = 7. Kids Room
+panorama_AF8F16E1_A2B1_BD1B_41CA_0FCD913C48DF.label = 11. Closet Area
+panorama_AF977B68_A2B0_ABE9_41C2_4379FAFD8312.label = 16. Kids Deck
+panorama_AF9DC16F_A2B1_F7E6_41D6_0AD01E635441.label = 12. Master Bathroom
+panorama_AFA224E0_A2B0_7D1A_41A6_EDA9EA8D266C.label = 15. Master deck
+panorama_AFA7C568_A2B7_BFE9_41B8_45BA70FA3D97.label = 10. Master bedroom
+panorama_AFAE98C6_A2B3_9519_41CE_766C1C5EF44C.label = 14. Parent Deck
 
 ## Hotspot
 
