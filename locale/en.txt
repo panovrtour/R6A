@@ -10,21 +10,21 @@ tour.name = R6A
 ## Media
 
 ### Title
-panorama_73DCA075_79A4_40CD_41C9_DCD449B7742B.label = 3. Living
-panorama_73DF7A5E_79A4_40FF_41D7_73E99D29A024.label = 5. Passage
-panorama_AE45F690_A2B1_FD39_41C6_0EA591879020.label = 8. Bathroom 2
-panorama_AE54F904_A2B1_9719_41D6_1580D68C452C.label = 4. Living Deck
-panorama_AE55A515_A2BF_FF3A_41E0_965779550D0F.label = 2. Dining
-panorama_AF227BCC_A2B0_AB29_41D1_53C457BEFF29.label = 1. Foyer
-panorama_AF8C247E_A2B0_FDE6_41C4_AD0223061F61.label = 13. Kitchen
-panorama_AF8DEB97_A2B0_AB27_41D8_087226EBB763.label = 9. Parent Bedroom
-panorama_AF8EA321_A2B3_BB1B_41B2_D3155311C565.label = 7. Kids Room
-panorama_AF8F16E1_A2B1_BD1B_41CA_0FCD913C48DF.label = 11. Closet Area
-panorama_AF977B68_A2B0_ABE9_41C2_4379FAFD8312.label = 16. Kids Deck
-panorama_AF9DC16F_A2B1_F7E6_41D6_0AD01E635441.label = 12. Master Bathroom
-panorama_AFA224E0_A2B0_7D1A_41A6_EDA9EA8D266C.label = 15. Master deck
-panorama_AFA7C568_A2B7_BFE9_41B8_45BA70FA3D97.label = 10. Master bedroom
-panorama_AFAE98C6_A2B3_9519_41CE_766C1C5EF44C.label = 14. Parent Deck
+panorama_73DCA075_79A4_40CD_41C9_DCD449B7742B.label = Living
+panorama_73DF7A5E_79A4_40FF_41D7_73E99D29A024.label = Passage
+panorama_AE45F690_A2B1_FD39_41C6_0EA591879020.label = Bathroom
+panorama_AE54F904_A2B1_9719_41D6_1580D68C452C.label = Living Deck
+panorama_AE55A515_A2BF_FF3A_41E0_965779550D0F.label = Dining
+panorama_AF227BCC_A2B0_AB29_41D1_53C457BEFF29.label = Foyer
+panorama_AF8C247E_A2B0_FDE6_41C4_AD0223061F61.label = Kitchen
+panorama_AF8DEB97_A2B0_AB27_41D8_087226EBB763.label = Parent Bedroom
+panorama_AF8EA321_A2B3_BB1B_41B2_D3155311C565.label = Kids Room
+panorama_AF8F16E1_A2B1_BD1B_41CA_0FCD913C48DF.label = Closet Area
+panorama_AF977B68_A2B0_ABE9_41C2_4379FAFD8312.label = Kids Deck
+panorama_AF9DC16F_A2B1_F7E6_41D6_0AD01E635441.label = Master Bathroom
+panorama_AFA224E0_A2B0_7D1A_41A6_EDA9EA8D266C.label = Master deck
+panorama_AFA7C568_A2B7_BFE9_41B8_45BA70FA3D97.label = Master bedroom
+panorama_AFAE98C6_A2B3_9519_41CE_766C1C5EF44C.label = Parent Deck
 
 ## Hotspot
 
@@ -60,3 +60,5 @@ HotspotPanoramaOverlayArea_6EF4DAB1_79E4_4045_41CA_DB200BA5077D.toolTip = Passag
 HotspotPanoramaOverlayArea_6F139859_79DC_40C5_41D3_598D83F31B15.toolTip = Kods Room
 HotspotPanoramaOverlayArea_6F55AC77_79DC_40CD_41D6_BD506210D26D.toolTip = Passage
 HotspotPanoramaOverlayArea_768472E1_79A4_41C5_41DA_71D9754A7962.toolTip = Dining
+HotspotPanoramaOverlayArea_A5BBA667_A8D2_0EF8_41E3_DCE3143E110B.toolTip = Living
+HotspotPanoramaOverlayArea_A79F3EBF_A8D6_3E48_41BE_E9DD67AC04E2.toolTip = Living Deck

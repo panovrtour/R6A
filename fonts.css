@@ -1,0 +1,24 @@
+@font-face {
+   font-family: "Gill Sans MT";
+   src: url("fonts/Gill Sans MT Bold Italic.woff") format("woff"), url("fonts/Gill Sans MT Bold Italic.eot") format("embedded-opentype"), url("fonts/Gill Sans MT Bold Italic.TTF") format("truetype"), url("fonts/Gill Sans MT Bold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Gill Sans MT";
+   src: url("fonts/Gill Sans MT Bold.woff") format("woff"), url("fonts/Gill Sans MT Bold.eot") format("embedded-opentype"), url("fonts/Gill Sans MT Bold.TTF") format("truetype"), url("fonts/Gill Sans MT Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Gill Sans MT";
+   src: url("fonts/Gill Sans MT Italic.woff") format("woff"), url("fonts/Gill Sans MT Italic.eot") format("embedded-opentype"), url("fonts/Gill Sans MT Italic.TTF") format("truetype"), url("fonts/Gill Sans MT Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Gill Sans MT";
+   src: url("fonts/Gill Sans MT.woff") format("woff"), url("fonts/Gill Sans MT.eot") format("embedded-opentype"), url("fonts/Gill Sans MT.TTF") format("truetype"), url("fonts/Gill Sans MT.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
