@@ -10,7 +10,6 @@ tour.name = R6A
 ## Media
 
 ### Title
-panorama_73DCA075_79A4_40CD_41C9_DCD449B7742B.label = Living
 panorama_73DF7A5E_79A4_40FF_41D7_73E99D29A024.label = Passage
 panorama_AE45F690_A2B1_FD39_41C6_0EA591879020.label = Bathroom
 panorama_AE54F904_A2B1_9719_41D6_1580D68C452C.label = Living Deck
@@ -25,6 +24,7 @@ panorama_AF9DC16F_A2B1_F7E6_41D6_0AD01E635441.label = Master Bathroom
 panorama_AFA224E0_A2B0_7D1A_41A6_EDA9EA8D266C.label = Master deck
 panorama_AFA7C568_A2B7_BFE9_41B8_45BA70FA3D97.label = Master bedroom
 panorama_AFAE98C6_A2B3_9519_41CE_766C1C5EF44C.label = Parent Deck
+panorama_B838D96D_B349_B952_41C6_04B835791518.label = Living
 
 ## Hotspot
 
