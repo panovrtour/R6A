@@ -16,49 +16,77 @@ panorama_AE54F904_A2B1_9719_41D6_1580D68C452C.label = Living Deck
 panorama_AE55A515_A2BF_FF3A_41E0_965779550D0F.label = Dining
 panorama_AF227BCC_A2B0_AB29_41D1_53C457BEFF29.label = Foyer
 panorama_AF8C247E_A2B0_FDE6_41C4_AD0223061F61.label = Kitchen
-panorama_AF8DEB97_A2B0_AB27_41D8_087226EBB763.label = Parent Bedroom
+panorama_AF8DEB97_A2B0_AB27_41D8_087226EBB763.label = Parents Bedroom
 panorama_AF8EA321_A2B3_BB1B_41B2_D3155311C565.label = Kids Room
 panorama_AF8F16E1_A2B1_BD1B_41CA_0FCD913C48DF.label = Closet Area
 panorama_AF977B68_A2B0_ABE9_41C2_4379FAFD8312.label = Kids Deck
 panorama_AF9DC16F_A2B1_F7E6_41D6_0AD01E635441.label = Master Bathroom
 panorama_AFA224E0_A2B0_7D1A_41A6_EDA9EA8D266C.label = Master deck
 panorama_AFA7C568_A2B7_BFE9_41B8_45BA70FA3D97.label = Master bedroom
-panorama_AFAE98C6_A2B3_9519_41CE_766C1C5EF44C.label = Parent Deck
+panorama_AFAE98C6_A2B3_9519_41CE_766C1C5EF44C.label = Parents Deck
 panorama_B838D96D_B349_B952_41C6_04B835791518.label = Living
 
 ## Hotspot
 
 ### Tooltip
-HotspotPanoramaOverlayArea_60125399_79FC_4072_41CB_F5B26C7A95E9.toolTip = Parent Deck
-HotspotPanoramaOverlayArea_60AAEA6F_79E3_C0DD_41CD_66C0798BCDC8.toolTip = Master Berdoom
-HotspotPanoramaOverlayArea_60EDCB9F_79EC_407D_41D0_04BE07A23767.toolTip = Parent Bedroom
-HotspotPanoramaOverlayArea_6182BDDE_79EC_C3FF_41C4_1A618DF4A628.toolTip = Living
-HotspotPanoramaOverlayArea_61DD009A_79EC_4047_41BC_6BD7E1AF9E5E.toolTip = Living Deck
-HotspotPanoramaOverlayArea_62BBA210_79E5_C043_41BE_85A103754837.toolTip = Master Deck
-HotspotPanoramaOverlayArea_62BE6955_79E4_40CD_41B3_5AA1C0959501.toolTip = Parent Bedroom
-HotspotPanoramaOverlayArea_62FBD28F_79FC_405D_4195_E6A5A3884F08.toolTip = Parent Bedroom
-HotspotPanoramaOverlayArea_639F9D7E_79E4_C0BF_41CD_A2E1E741BCB9.toolTip = Bathroom
+HotspotPanoramaOverlayArea_60125399_79FC_4072_41CB_F5B26C7A95E9.toolTip = Parents Deck \
+2.30m x 3.45m
+HotspotPanoramaOverlayArea_60AAEA6F_79E3_C0DD_41CD_66C0798BCDC8.toolTip = Master Bedroom \
+3.55m x 4.25m
+HotspotPanoramaOverlayArea_60EDCB9F_79EC_407D_41D0_04BE07A23767.toolTip = Parents Bedroom \
+3.55m x 3.50m
+HotspotPanoramaOverlayArea_6182BDDE_79EC_C3FF_41C4_1A618DF4A628.toolTip = Living \
+4.25m x 4.25m
+HotspotPanoramaOverlayArea_61DD009A_79EC_4047_41BC_6BD7E1AF9E5E.toolTip = Living Deck \
+3.75m x 1.57m
+HotspotPanoramaOverlayArea_62BBA210_79E5_C043_41BE_85A103754837.toolTip = Master Deck \
+3.30m x 1.57m
+HotspotPanoramaOverlayArea_62BE6955_79E4_40CD_41B3_5AA1C0959501.toolTip = Parent Bedroom \
+3.55m x 3.50m
+HotspotPanoramaOverlayArea_62FBD28F_79FC_405D_4195_E6A5A3884F08.toolTip = Parents Bedroom \
+3.55m x 3.50m
+HotspotPanoramaOverlayArea_639F9D7E_79E4_C0BF_41CD_A2E1E741BCB9.toolTip = Bathroom \
+1.42m x 2.45m
 HotspotPanoramaOverlayArea_63B280BA_79E7_C047_41D5_92DC2AED717D.toolTip = Passage
-HotspotPanoramaOverlayArea_640118F5_79E4_C1CD_41DC_AFCF28BC79C6.toolTip = Master Bedroom
-HotspotPanoramaOverlayArea_64B80D86_79EC_404F_4197_1442CD4ABF88.toolTip = Closet Area
-HotspotPanoramaOverlayArea_651A391F_79EC_407D_41CE_18C6BFEFE66F.toolTip = Master Bedroom
-HotspotPanoramaOverlayArea_651D91CC_79EC_43C3_41D5_CF356080180B.toolTip = Master Bathroom
+HotspotPanoramaOverlayArea_640118F5_79E4_C1CD_41DC_AFCF28BC79C6.toolTip = Master Bedroom \
+3.55m x 4.25m
+HotspotPanoramaOverlayArea_64B80D86_79EC_404F_4197_1442CD4ABF88.toolTip = Closet Area \
+2.45m x 2.27m
+HotspotPanoramaOverlayArea_651A391F_79EC_407D_41CE_18C6BFEFE66F.toolTip = Master Bedroom \
+3.55m x 4.25m
+HotspotPanoramaOverlayArea_651D91CC_79EC_43C3_41D5_CF356080180B.toolTip = Master Bathroom \
+2.45m x 1.82m
 HotspotPanoramaOverlayArea_65AF596B_79E4_40C5_41D8_A5368681B8B4.toolTip = Passage
-HotspotPanoramaOverlayArea_65EE2580_79E4_4043_4190_3222C691526C.toolTip = Closet  Area
-HotspotPanoramaOverlayArea_66E1B352_79DC_C0C7_41DA_865D7BA454A0.toolTip = Living Room
-HotspotPanoramaOverlayArea_68C2079C_79BC_4043_41C9_00C05631373F.toolTip = Living
-HotspotPanoramaOverlayArea_6A591180_79AC_C043_41CC_77A4E3925CEF.toolTip = Foyer
-HotspotPanoramaOverlayArea_6A658999_79BC_4045_41A2_720F60CBB430.toolTip = Foyer
-HotspotPanoramaOverlayArea_6A7C8EF9_79BC_41C5_41BE_C9178FF8355A.toolTip = Kitchen
-HotspotPanoramaOverlayArea_6AC3CE3F_79A4_40BD_41C8_30259BC741BD.toolTip = Dining
-HotspotPanoramaOverlayArea_6B167A65_79A4_40CD_41B1_DC3161FA466A.toolTip = Dining
-HotspotPanoramaOverlayArea_6C141538_79DC_C043_41B1_34B54A993B2A.toolTip = Kids Deck
-HotspotPanoramaOverlayArea_6C5EE642_79A4_C0C7_41DB_D58783D6EC7B.toolTip = Kids Room
+HotspotPanoramaOverlayArea_65EE2580_79E4_4043_4190_3222C691526C.toolTip = Closet  Area \
+2.45m x 2.27m
+HotspotPanoramaOverlayArea_66E1B352_79DC_C0C7_41DA_865D7BA454A0.toolTip = Living Room \
+4.25m x 4.25m
+HotspotPanoramaOverlayArea_68C2079C_79BC_4043_41C9_00C05631373F.toolTip = Living \
+4.25m x 4.25m
+HotspotPanoramaOverlayArea_6A591180_79AC_C043_41CC_77A4E3925CEF.toolTip = Foyer \
+1.50m x 1.50m
+HotspotPanoramaOverlayArea_6A658999_79BC_4045_41A2_720F60CBB430.toolTip = Foyer \
+1.50m x 1.50m
+HotspotPanoramaOverlayArea_6A7C8EF9_79BC_41C5_41BE_C9178FF8355A.toolTip = Kitchen \
+2.45m x 3.35m
+HotspotPanoramaOverlayArea_6AC3CE3F_79A4_40BD_41C8_30259BC741BD.toolTip = Dining \
+4.25m x 2.65m
+HotspotPanoramaOverlayArea_6B167A65_79A4_40CD_41B1_DC3161FA466A.toolTip = Dining \
+4.25m x 2.65m
+HotspotPanoramaOverlayArea_6C141538_79DC_C043_41B1_34B54A993B2A.toolTip = Kids Deck \
+3.10m x 1.57m
+HotspotPanoramaOverlayArea_6C5EE642_79A4_C0C7_41DB_D58783D6EC7B.toolTip = Kids Room \
+3.20m x 3.65m
 HotspotPanoramaOverlayArea_6DA02288_79AC_4043_41D0_7D8CB051C679.toolTip = Passage
-HotspotPanoramaOverlayArea_6DCE6AB3_79AC_4045_41A9_90A9395ECC48.toolTip = Kitchen
+HotspotPanoramaOverlayArea_6DCE6AB3_79AC_4045_41A9_90A9395ECC48.toolTip = Kitchen \
+2.45m x 3.35m
 HotspotPanoramaOverlayArea_6EF4DAB1_79E4_4045_41CA_DB200BA5077D.toolTip = Passage
-HotspotPanoramaOverlayArea_6F139859_79DC_40C5_41D3_598D83F31B15.toolTip = Kods Room
+HotspotPanoramaOverlayArea_6F139859_79DC_40C5_41D3_598D83F31B15.toolTip = Kids Room \
+3.20m x 3.65m
 HotspotPanoramaOverlayArea_6F55AC77_79DC_40CD_41D6_BD506210D26D.toolTip = Passage
-HotspotPanoramaOverlayArea_768472E1_79A4_41C5_41DA_71D9754A7962.toolTip = Dining
-HotspotPanoramaOverlayArea_A5BBA667_A8D2_0EF8_41E3_DCE3143E110B.toolTip = Living
-HotspotPanoramaOverlayArea_A79F3EBF_A8D6_3E48_41BE_E9DD67AC04E2.toolTip = Living Deck
+HotspotPanoramaOverlayArea_768472E1_79A4_41C5_41DA_71D9754A7962.toolTip = Dining \
+4.25m x 2.65m
+HotspotPanoramaOverlayArea_A5BBA667_A8D2_0EF8_41E3_DCE3143E110B.toolTip = Living \
+4.25m x 4.25m
+HotspotPanoramaOverlayArea_A79F3EBF_A8D6_3E48_41BE_E9DD67AC04E2.toolTip = Living Deck \
+3.75m x 1.57m
